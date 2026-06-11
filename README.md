@@ -69,8 +69,6 @@ npm start
 
 **Harsha Sai**
 
-- GitHub: :contentReference[oaicite:0]{index=0}
-
 ## ⭐ Support
 
 If you found this project useful, consider giving it a star on GitHub.
